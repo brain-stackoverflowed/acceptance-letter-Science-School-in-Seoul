@@ -1,3 +1,5 @@
 home.php => process.php ==
-==> (with 22% or Suhumno. 1111) pass.php
+==> (with 22% or specialcode) pass.php
 ==> (else) fail.php
+
+specialcode can be made with [pass||fail]+" "+[wanted SuhumNo.]
